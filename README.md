@@ -1,3 +1,3 @@
-[R]
-Georgia State University, Atlanta, USA
+[R].
+Georgia State University, Atlanta, USA.
 https://csds.gsu.edu/
